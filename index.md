@@ -1,6 +1,6 @@
 ## Welcome to My Github
 
-visit my repositories:
+Please visit my repositories:
 
 1.[OS lab work](https://github.com/jahid-ictian/Operating-system-Lab)
 
