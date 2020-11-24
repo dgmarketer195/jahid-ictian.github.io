@@ -1,6 +1,6 @@
 ## Welcome to My Github
 
-You can go to the [Repositories on GitHub](https://github.com/jahid-ictian?tab=repositories) to see my works.
+You can go to the [Repositories on GitHub](https://github.com/jahid-ictian) to see my works.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
