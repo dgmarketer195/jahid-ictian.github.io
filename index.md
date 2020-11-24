@@ -1,6 +1,12 @@
 ## Welcome to My Github
 
-You can go to the [Repositories on GitHub](https://github.com/jahid-ictian) to see my works.
+visit my repositories:
+
+1.[OS lab work](https://github.com/jahid-ictian/Operating-system-Lab)
+
+2.[Competitive programming journey](https://github.com/jahid-ictian/Competitive-Programming-Solutions)
+
+3.[Recursion practice in C](https://github.com/jahid-ictian/Recursion)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
